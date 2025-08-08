@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskManager_CleanArch_BasicWorkflow_Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ed295663c8f3528d647451d5cd7bee885502bbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskManager_CleanArch_BasicWorkflow_Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskManager_CleanArch_BasicWorkflow_Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

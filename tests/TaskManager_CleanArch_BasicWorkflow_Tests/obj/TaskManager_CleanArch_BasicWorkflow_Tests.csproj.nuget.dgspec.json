@@ -108,6 +108,22 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -153,6 +169,9 @@
             "projectReferences": {
               "/Users/thomas.gooch/Projects/POC/learning_coach_practice/TaskManager_CleanArch_BasicWorkflow/src/Core/Core.csproj": {
                 "projectPath": "/Users/thomas.gooch/Projects/POC/learning_coach_practice/TaskManager_CleanArch_BasicWorkflow/src/Core/Core.csproj"
+              },
+              "/Users/thomas.gooch/Projects/POC/learning_coach_practice/TaskManager_CleanArch_BasicWorkflow/src/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/thomas.gooch/Projects/POC/learning_coach_practice/TaskManager_CleanArch_BasicWorkflow/src/Infrastructure/Infrastructure.csproj"
               }
             }
           }
@@ -176,6 +195,12 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.8, )"
             }
           },
           "imports": [
