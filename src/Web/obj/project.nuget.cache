@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xJzlD0/RSK8=",
+  "success": true,
+  "projectFilePath": "/Users/thomas.gooch/Projects/POC/learning_coach_practice/TaskManager_CleanArch_BasicWorkflow/src/Web/Web.csproj",
+  "expectedPackageFiles": [
+    "/Users/thomas.gooch/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/thomas.gooch/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
