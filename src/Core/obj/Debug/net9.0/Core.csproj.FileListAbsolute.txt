@@ -9,3 +9,4 @@
 /Users/thomas.gooch/Projects/POC/learning_coach_practice/TaskManager_CleanArch_BasicWorkflow/src/Core/obj/Debug/net9.0/refint/Core.dll
 /Users/thomas.gooch/Projects/POC/learning_coach_practice/TaskManager_CleanArch_BasicWorkflow/src/Core/obj/Debug/net9.0/Core.pdb
 /Users/thomas.gooch/Projects/POC/learning_coach_practice/TaskManager_CleanArch_BasicWorkflow/src/Core/obj/Debug/net9.0/ref/Core.dll
+/Users/thomas.gooch/Projects/POC/learning_coach_practice/TaskManager_CleanArch_BasicWorkflow/src/Core/obj/Debug/net9.0/Core.sourcelink.json
